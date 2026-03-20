@@ -52,9 +52,10 @@ Key questions:
 
 ## 🛠 Tools Used
 
-* Power BI / Tableau (data visualization)
-* SQL (data extraction and transformation) *(if applicable)*
-* Excel / CSV (data source)
+* Bigquery
+* SQL
+* Excel
+* Looker Studio
 
 ---
 
@@ -65,7 +66,7 @@ Key questions:
   * Sales transactions (~150,000 records)
   * 24 markets
   * 562 retailers
-* Data is anonymized and used for educational purposes
+* Data is anonymised and used for educational purposes
 
 ---
 
