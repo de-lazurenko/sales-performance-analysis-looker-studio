@@ -52,7 +52,7 @@ Key questions:
 
 ## 🛠 Tools Used
 
-* Bigquery
+* BigQuery
 * SQL
 * Excel
 * Looker Studio
