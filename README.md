@@ -59,6 +59,15 @@ Key questions:
 
 ---
 
+## 📐 Key Metric Definition
+
+**WAR (Web Adoption Rate)** = Web Orders / Total Orders × 100
+
+Used as the central KPI to track digital channel penetration over time.
+Calculated per year across all 24 markets.
+
+---
+
 ## 📁 Data
 
 * Dataset includes:
