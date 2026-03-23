@@ -10,7 +10,7 @@ This is my first dashboard as part of the Data Analytics educational course.
 
 ## 🎯 Business Problem
 
-The company is experiencing growth in sales volume, but there are changes in average order value and channel distribution.
+The company is experiencing growth in sales volume, but average revenue per unit declined despite volume growth — a paradox driven by web channel mix shift and channel distribution.
 
 Key questions:
 
